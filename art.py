@@ -3,7 +3,7 @@ import json
 import random
 import shutil
 
-AMOUNT = 432
+AMOUNT = 0000
 SOURCE = "build"
 
 IPFS = "ipfs://PATH/"
